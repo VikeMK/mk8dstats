@@ -57,7 +57,6 @@ var str = {
           ["Tanooki Mario","Tanooki Mario","Mario tanooki","Mario tanooki","Tanooki Mario"],
           ["Cat Peach","Cat Peach","Peach chat","Peach chat","Katzen-Peach"],
           ["Yoshi","Yoshi","Yoshi","Yoshi","Yoshi"],
-          ["Birdo","Birdo","Birdo","Birdo","Birdo"],
           ["Toad","Toad","Toad","Toad","Toad"],
           ["Koopa","Koopa","Koopa","Koopa","Koopa"],
           ["Shy Guy","Shy Guy","Maskache","Maskass","Shy Guy"],
@@ -93,7 +92,8 @@ var str = {
           ["Isabelle","Isabelle","Marie","Marie","Melinda"],
           ["Mii (Light)","Mii (Light)","Mii (léger)","Mii (léger)","Mii (leicht)"],
           ["Mii (Medium)","Mii (Medium)","Mii (moyen)","Mii (moyen)","Mii (mittel)"],
-          ["Mii (Heavy)","Mii (Heavy)","Mii (lourd)","Mii (lourd)","Mii (schwer)"]],
+          ["Mii (Heavy)","Mii (Heavy)","Mii (lourd)","Mii (lourd)","Mii (schwer)"],
+          ["Birdo","Birdo","Birdo","Birdo","Birdo"]],
 
   kart: [["Standard Kart","Standard Kart","Kart standard","Kart standard","Standard-Kart"],
          ["Pipe Frame","Pipe Frame","Rétro","Rétro","Go-Kart"],
